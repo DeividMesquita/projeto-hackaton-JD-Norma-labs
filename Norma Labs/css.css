@@ -1,0 +1,150 @@
+#body {
+    background-color: #d2b48c;
+    padding: 10px 10px 10px 10px;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-right: 150px;
+}
+
+#h1 {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    top: 50%;
+    margin-left: 400px;
+    border-radius: 15px;
+
+}
+
+#topo {
+    background-color: orange;
+    border-radius: 15px;
+}
+
+#topo p {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-size: larger;
+}
+
+#conteudo1 {
+    background-color: white;
+    width: 300px;
+    margin-left: 50px;
+    float: left;
+    text-align: center;
+    border-radius: 15px;
+}
+
+#conteudo1 img {
+    width: 250px;
+    margin-left: 20px;
+    float: left;
+    padding: 5px;
+    border-radius: 15px;
+    
+
+
+}
+
+#conteudo2 {
+    background-color: white;
+    width: 300px;
+    margin-left: 5px;
+    float: left;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#conteudo2 img {
+    width: 250px;
+    margin-left: 20px;
+    float: left;
+    border-radius: 15px;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+#conteudo3 {
+    background-color: white;
+    width: 300px;
+    margin-left: 5px;
+    float: left;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#conteudo3 img {
+    width: 250px;
+    margin-left: 20px;
+    float: left;
+    padding: 5px;
+    border-radius: 15px;
+
+}
+
+#conteudo4 {
+    background-color: white;
+    width: 300px;
+    margin-left: 5px;
+    float: left;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#conteudo4 img {
+    width: 250px;
+    margin-left: 20px;
+    float: left;
+    padding: 5px;
+    border-radius: 15px;
+
+}
+
+#rodape {
+    background-color: orange;
+    height: 750px;
+    width: 1305px;
+    margin-left: 10px;
+    margin-top: 5px;
+    float: left;
+    border-radius: 15px;
+}
+
+#rodape p {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#rodape img {
+    width: 300px;
+    margin-left: 100px;
+    float: center;
+    padding: 5px;
+    border-radius: 15px;
+}
+#rodape h3{
+    margin-left: 15px;
+    color: black;
+    text-align: center;
+
+}
+i {
+    color: blue;
+
+}
+#insta {
+    color: purple;
+}
+#apresentação {
+    color: white;
+    text-align: center;
+    font-size: large;
+}
